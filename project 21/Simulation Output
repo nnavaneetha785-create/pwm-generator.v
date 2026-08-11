@@ -1,0 +1,19 @@
+25% Duty Cycle
+
+PWM:  ‾‾‾‾____‾‾‾‾____‾‾‾‾____
+      ↑
+    short HIGH
+
+
+50% Duty Cycle
+
+PWM:  ‾‾‾‾‾‾‾‾____ ____‾‾‾‾‾‾‾‾____
+      ↑
+    equal HIGH and LOW
+
+
+75% Duty Cycle
+
+PWM:  ‾‾‾‾‾‾‾‾‾‾‾‾____‾‾‾‾‾‾‾‾‾‾‾‾____
+      ↑
+    longer HIGH
